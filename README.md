@@ -1,18 +1,21 @@
 # Unichain-Tesnet
 
-1. **Claim faucet** 
-  - Unichain Sepolia on superchain
-  - Unichain Sepolia on thirdweb
-
-2. **Use Dapp for bridge or swap**
+1. **Claim faucet**
+  - Unichain Tesnet
+    - on superchain
+    - on thirdweb
+  - Sepolia Tesnet
+    - on Alchemy
+    - on Google Cloud 
+3. **Use Dapp for bridge or swap**
   - Brid.gg Tesnet
   - Superbridge
   - Uniswap
   - Owlto finance
 
-3. **Use Dapp for Deploy Smart contract**
+4. **Use Dapp for Deploy Smart contract**
   - Owlto finance
   - Thirdweb
 
-4. **Buy Unichain NFT (Optional)**
+5. **Buy Unichain NFT (Optional)**
   - Zora
